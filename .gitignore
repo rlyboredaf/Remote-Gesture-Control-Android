@@ -1,0 +1,39 @@
+# =================================================================
+# ANDROID STUDIO & GRADLE
+# =================================================================
+*.iml
+.gradle/
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# APKs, AABs, and private signing keys
+*.apk
+*.aab
+*.ap_
+*.aex
+*.keystore
+*signing.properties
+
+# =================================================================
+# PYTHON
+# =================================================================
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# =================================================================
+# SENSITIVE FILES
+# =================================================================
+firebase_key.json

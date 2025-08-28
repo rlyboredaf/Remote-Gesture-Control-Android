@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "113903552564",
+    "firebase_url": "https://hand-tracking-gesture-control-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hand-tracking-gesture-control",
+    "storage_bucket": "hand-tracking-gesture-control.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113903552564:android:371c13a73d6f39344ee261",
+        "android_client_info": {
+          "package_name": "com.example.gestures"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwsE3kwTqC2LecxJRMsn1AHPTZShmcGic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
