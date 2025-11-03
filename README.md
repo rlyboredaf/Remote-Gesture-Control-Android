@@ -41,6 +41,3 @@ This project allows you to remotely control an Android device using hand gesture
 1.  Run the Python script on your computer. A webcam feed should appear.
 2.  Open the Android app on your phone.
 3.  Perform the recognized gestures in front of the webcam to control your device.
-
-
-P.S. This README was AI generated with a summary I gave.
